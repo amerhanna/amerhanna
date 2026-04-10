@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amerhanna
 - 👀 I’m interested in everythink high tech, over simplifying DX (Developer eXperience) by building overly complicated platform development systems.
-- 🌱 I’m currently learning cypress and ext-JS
+- 🌱 My passion project is AmerOS, a Windows 95 inspired jswebOS. check its current form at https://ameros.vercel.app
 - 💞️ I’m looking to collaborate on whatever I find cool
 - 📫 How to reach me here or on whatever email address you find in
 
